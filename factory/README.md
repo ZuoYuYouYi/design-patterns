@@ -37,6 +37,9 @@
 # 案例说明
 ```text
 
+目的：画不同形状的图形。
+
+步骤：
 1. 创建一个 Shape 接口和实现 Shape 接口的实体类。
 2. 使用 ShapeFactory 来获取 Shape 对象。向 ShapeFactory 传递信息（CIRCLE / RECTANGLE / SQUARE），以便获取它所需对象的类型。
 

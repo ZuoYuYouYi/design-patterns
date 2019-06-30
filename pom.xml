@@ -12,6 +12,7 @@
     <module>adapter</module>
     <module>builder</module>
     <module>factory</module>
+    <module>abstract-factory</module>
   </modules>
 
 
