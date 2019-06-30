@@ -2,11 +2,12 @@ package org.zuoyu;
 
 import lombok.extern.java.Log;
 import org.zuoyu.util.Meal;
-import org.zuoyu.util.MealBuilder;
+import org.zuoyu.builder.MealBuilder;
 
 /**
  * 使用 MealBuilder 来创建一个 Meal
  *
+ * @author zuoyu
  */
 @Log
 public class App 

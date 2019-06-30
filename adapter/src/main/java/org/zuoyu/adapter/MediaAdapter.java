@@ -1,4 +1,4 @@
-package org.zuoyu.serviceimpl;
+package org.zuoyu.adapter;
 
 import org.zuoyu.entity.Mp4Player;
 import org.zuoyu.entity.VclPlayer;

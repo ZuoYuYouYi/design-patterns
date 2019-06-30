@@ -49,7 +49,7 @@
 
 # 案例说明
 
-````
+```text
 前提：
 
 有一个 MediaPlayer 接口和一个实现了 MediaPlayer 接口的实体类 AudioPlayer。默认情况下，AudioPlayer 可以播放 mp3 格式的音频文件。
@@ -57,3 +57,4 @@
 
 问题：
 想要让 AudioPlayer 播放其他格式的音频文件。
+```

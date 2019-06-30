@@ -2,7 +2,7 @@ package org.zuoyu.entity;
 
 import lombok.extern.java.Log;
 import org.zuoyu.faucet.MediaPlayer;
-import org.zuoyu.serviceimpl.MediaAdapter;
+import org.zuoyu.adapter.MediaAdapter;
 
 /**
  * 媒体播放器.

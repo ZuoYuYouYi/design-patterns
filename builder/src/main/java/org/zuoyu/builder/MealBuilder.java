@@ -1,9 +1,10 @@
-package org.zuoyu.util;
+package org.zuoyu.builder;
 
 import org.zuoyu.entity.ChickenBurger;
 import org.zuoyu.entity.Coke;
 import org.zuoyu.entity.Pepsi;
 import org.zuoyu.entity.VegBurger;
+import org.zuoyu.util.Meal;
 
 /**
  * 对套餐的建造.
