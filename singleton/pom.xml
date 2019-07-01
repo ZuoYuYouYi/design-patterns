@@ -10,9 +10,9 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>factory</artifactId>
+  <artifactId>singleton</artifactId>
 
-  <name>factory</name>
+  <name>singleton</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
