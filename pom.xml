@@ -19,6 +19,8 @@
     <module>abstract-factory</module>
 <!--    单例模式-->
     <module>singleton</module>
+<!--    原型模式-->
+    <module>prototype</module>
   </modules>
 
 
