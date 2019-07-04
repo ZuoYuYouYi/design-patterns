@@ -21,6 +21,8 @@
     <module>singleton</module>
 <!--    原型模式-->
     <module>prototype</module>
+<!--    桥接模式-->
+    <module>bridge</module>
   </modules>
 
 
