@@ -9,6 +9,7 @@ import org.zuoyu.util.ShapeCache;
 /**
  * 使用 ShapeCache 类来获取存储在 Hashtable 中的形状的克隆.
  *
+ * @author zuoyu
  */
 @Log
 public class App 
