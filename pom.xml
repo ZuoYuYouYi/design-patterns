@@ -11,18 +11,26 @@
   <modules>
 <!--    适配器模式-->
     <module>adapter</module>
+
 <!--    构造者模式-->
     <module>builder</module>
+
 <!--    工厂模式-->
     <module>factory</module>
+
 <!--    抽象工厂模式-->
     <module>abstract-factory</module>
+
 <!--    单例模式-->
     <module>singleton</module>
+
 <!--    原型模式-->
     <module>prototype</module>
 <!--    桥接模式-->
     <module>bridge</module>
+
+<!--    过滤器模式-->
+    <module>filter</module>
   </modules>
 
 
