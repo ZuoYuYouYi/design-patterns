@@ -26,11 +26,14 @@
 
 <!--    原型模式-->
     <module>prototype</module>
+    
 <!--    桥接模式-->
     <module>bridge</module>
 
 <!--    过滤器模式-->
     <module>filter</module>
+    
+    <!-- 组合模式 -->
     <module>composite</module>
   </modules>
 
