@@ -33,8 +33,11 @@
 <!--    过滤器模式-->
     <module>filter</module>
     
-    <!-- 组合模式 -->
+<!--    组合模式-->
     <module>composite</module>
+
+<!--    装饰器模式-->
+    <module>decorator</module>
   </modules>
 
 
