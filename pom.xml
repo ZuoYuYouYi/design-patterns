@@ -38,6 +38,9 @@
 
 <!--    装饰器模式-->
     <module>decorator</module>
+
+<!--    外观模式-->
+    <module>facade</module>
   </modules>
 
 

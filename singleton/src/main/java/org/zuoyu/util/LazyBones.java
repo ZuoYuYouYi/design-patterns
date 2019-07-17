@@ -10,22 +10,22 @@ import lombok.extern.java.Log;
  * @create 2019-06-30 20:08
  **/
 @Log
-public class Lazybones {
+public class LazyBones {
 
 //  这种方式是最基本的实现方式，这种实现最大的问题就是不支持多线程。
 //  因为没有加锁 synchronized，所以严格意义上它并不算单例模式。
 
-  private Lazybones() {
+  private LazyBones() {
   }
 
-  private static Lazybones instance;
+  private static LazyBones instance;
 
   /**
    * 获取Lazybones的实例
    */
-  public static Lazybones getInstance() {
+  public static LazyBones getInstance() {
     if (instance == null) {
-      instance = new Lazybones();
+      instance = new LazyBones();
     }
     return instance;
   }
@@ -35,5 +35,12 @@ public class Lazybones {
    */
   public void showClassMessage() {
     log.info(this.toString());
+  }
+
+  /**
+   * 返回该类的信息
+   */
+  public String writeClassMessage() {
+    return this.toString();
   }
 }

@@ -4,8 +4,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import lombok.extern.java.Log;
 import org.zuoyu.util.DoubleCheckL;
-import org.zuoyu.util.Lazybones;
-import org.zuoyu.util.LazybonesThread;
 
 /**
  * 1、单例类只能有一个实例。
@@ -27,8 +25,8 @@ public class App {
     DoubleCheckL.getInstance().showClassMessage();
 //    Enumerate.INTERFACE.showClassMessage();
 //      HungryBones.getInstance().showClassMessage();
-//      Lazybones.getInstance().showClassMessage();
-//    LazybonesThread.getInstance().showClassMessage();
+//      LazyBones.getInstance().showClassMessage();
+//    LazyBonesThread.getInstance().showClassMessage();
     }
   }
 

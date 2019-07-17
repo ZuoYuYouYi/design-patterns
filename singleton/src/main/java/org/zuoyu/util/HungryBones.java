@@ -35,4 +35,11 @@ public class HungryBones {
   public void showClassMessage() {
     log.info(this.toString());
   }
+
+  /**
+   * 返回该类的信息
+   */
+  public String writeClassMessage() {
+    return this.toString();
+  }
 }

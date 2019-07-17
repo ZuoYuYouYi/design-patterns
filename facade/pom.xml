@@ -10,9 +10,9 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>singleton</artifactId>
+  <artifactId>facade</artifactId>
 
-  <name>singleton</name>
+  <name>facade</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -30,13 +30,14 @@
       <scope>test</scope>
     </dependency>
 
-    <!--    测压-->
+<!--    测压-->
     <dependency>
       <groupId>org.databene</groupId>
       <artifactId>contiperf</artifactId>
       <version>2.3.4</version>
       <scope>test</scope>
     </dependency>
+
 
     <!--Lombok插件-->
     <dependency>
