@@ -41,6 +41,8 @@
 
 <!--    外观模式-->
     <module>facade</module>
+<!--    享元模式-->
+    <module>flyweight</module>
   </modules>
 
 
