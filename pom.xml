@@ -43,6 +43,8 @@
     <module>facade</module>
 <!--    享元模式-->
     <module>flyweight</module>
+<!--    代理模式-->
+    <module>proxy</module>
   </modules>
 
 
