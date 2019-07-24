@@ -45,6 +45,9 @@
     <module>flyweight</module>
 <!--    代理模式-->
     <module>proxy</module>
+
+<!--    责任链模式-->
+    <module>responsibility-chain</module>
   </modules>
 
 
