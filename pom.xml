@@ -41,13 +41,18 @@
 
 <!--    外观模式-->
     <module>facade</module>
+
 <!--    享元模式-->
     <module>flyweight</module>
+
 <!--    代理模式-->
     <module>proxy</module>
 
 <!--    责任链模式-->
     <module>responsibility-chain</module>
+
+<!--    命令模式-->
+    <module>command</module>
   </modules>
 
 
