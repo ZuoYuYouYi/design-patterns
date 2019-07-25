@@ -53,6 +53,9 @@
 
 <!--    命令模式-->
     <module>command</module>
+
+<!--    解释器模式-->
+    <module>interpreter</module>
   </modules>
 
 
