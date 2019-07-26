@@ -56,6 +56,9 @@
 
 <!--    解释器模式-->
     <module>interpreter</module>
+
+<!--    迭代器模式-->
+    <module>iterator</module>
   </modules>
 
 
