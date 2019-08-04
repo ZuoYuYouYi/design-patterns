@@ -59,6 +59,9 @@
 
 <!--    迭代器模式-->
     <module>iterator</module>
+
+<!--    中介者模式-->
+    <module>mediator</module>
   </modules>
 
 
